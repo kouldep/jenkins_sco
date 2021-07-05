@@ -7,4 +7,5 @@ echo "This is Magic"
 echo "This auto build"
 echo "Trying again auto...build"
 echo "last try as you need public IP addr"
-
+echo "I should have added admin:repo_hook"
+echo "Trying last time..."
