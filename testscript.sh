@@ -6,3 +6,5 @@ echo "This Completes the Script"
 echo "This is Magic"
 echo "This auto build"
 echo "Trying again auto...build"
+echo "last try as you need public IP addr"
+
